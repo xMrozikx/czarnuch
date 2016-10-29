@@ -1,0 +1,71 @@
+body {
+      background-image: url("background.jpg");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+#lista{
+      position:absolute;
+      top:140;
+      width:70%;
+      left:15%;
+      font-size:30px;
+}
+ul{
+      line-height: 50px;
+      list-style-type: none;
+}
+#jeden{
+      text-align: center;
+      background-color:#66534F;
+      padding: 1px 30%;
+      margin:50px;
+      border-style: solid;
+      border-width: 1px;
+      border-color:#1B1B1B;
+}
+#dwa{
+      text-align: center;
+      background-color:#66534F;
+      padding: 1px 30%;
+      margin:50px;
+      border-style: solid;
+      border-width: 1px;
+      border-color:#1B1B1B;
+}
+#trzy{
+      text-align: center;
+      background-color:#66534F;
+      padding: 1px 30%;
+      margin:50px;
+      border-style: solid;
+      border-width: 1px;
+      border-color:#1B1B1B;
+}
+
+#lista2{
+
+      position: relative;
+      bottom:105;
+}
+
+
+#czwarty{
+      display: none;
+      text-align: left;
+      background-color:#66534F;
+      padding: 1px 30%;
+      margin:50px;
+      border-style: solid;
+      border-width: 1px;
+      border-color:#1B1B1B;
+}
+
+
+a:visited{
+      color:#AAA9A1;
+}
+a{
+      text-decoration: none;
+      color:#AAA9A1
+}
